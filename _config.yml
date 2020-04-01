@@ -1,6 +1,6 @@
 # general configuration
 url: ""
-baseurl: 'bcjs.edu.mt'
+baseurl: ''
 
 # compass configuration
 compass:

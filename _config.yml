@@ -1,6 +1,6 @@
 # general configuration
 url: ""
-baseurl: ''
+baseurl: 'bcjs'
 
 # compass configuration
 compass:
